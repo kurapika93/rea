@@ -1,0 +1,11 @@
+C.Explain briefly between test suite, test case, and test step!
+test suite : grouping similar test case together
+test case  : set of detail method, process , precondition , expected result and post condition for particular scenario 
+test step  : describe executing step by step and the expected result that are documented 
+
+D.different between regression test and non regression test
+
+ regression testing is use to re-execute testing to makesure modification of feature did no affect existing functionality it is very use full for final log after manual testing done
+ for log history and it done by QA engineer  
+
+ non regresion testing is a technique to test some new feature or modified feature work with the assumption the previous functionality is not affect , this is done by manual tester
